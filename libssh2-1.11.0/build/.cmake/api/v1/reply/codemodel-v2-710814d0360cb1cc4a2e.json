@@ -1,0 +1,610 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8416eedbd48b63a61482.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src-Debug-67b3e6bcfcf0c3abe0bf.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						5,
+						6
+					]
+				},
+				{
+					"build" : "example",
+					"jsonFile" : "directory-example-Debug-8ca0c98ee1efd38c600f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "example",
+					"targetIndexes" : 
+					[
+						1,
+						4,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						54
+					]
+				},
+				{
+					"build" : "tests",
+					"jsonFile" : "directory-tests-Debug-70e4927a02b591d5c1f8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tests",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						7,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53
+					]
+				},
+				{
+					"build" : "docs",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-docs-Debug-9f6a2f8dab9e8f425a41.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "docs"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "libssh2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "clean-coverage::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-clean-coverage-Debug-b707db941d25ea03b20f.json",
+					"name" : "clean-coverage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "copy_example_dependencies::@70983d692f648185febe",
+					"jsonFile" : "target-copy_example_dependencies-Debug-60a8783e20d87ed707ba.json",
+					"name" : "copy_example_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "copy_test_dependencies::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-copy_test_dependencies-Debug-0e188d482490a89225d4.json",
+					"name" : "copy_test_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "coverage::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-coverage-Debug-8fdb9372dfd287e815a7.json",
+					"name" : "coverage",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "direct_tcpip::@70983d692f648185febe",
+					"jsonFile" : "target-direct_tcpip-Debug-c61ead277fdd6135b98b.json",
+					"name" : "direct_tcpip",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "libssh2_shared::@145eef247bfb46b6828c",
+					"jsonFile" : "target-libssh2_shared-Debug-1ced85655c82b7f14976.json",
+					"name" : "libssh2_shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "libssh2_static::@145eef247bfb46b6828c",
+					"jsonFile" : "target-libssh2_static-Debug-a905a49fea7a8bff8c78.json",
+					"name" : "libssh2_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "runner::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-runner-Debug-6a64697a1e5ce603a01e.json",
+					"name" : "runner",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "scp::@70983d692f648185febe",
+					"jsonFile" : "target-scp-Debug-fe4178986b7b591b56f1.json",
+					"name" : "scp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "scp_nonblock::@70983d692f648185febe",
+					"jsonFile" : "target-scp_nonblock-Debug-4a00a9f908bbc0bb83a0.json",
+					"name" : "scp_nonblock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "scp_write::@70983d692f648185febe",
+					"jsonFile" : "target-scp_write-Debug-8508108a40cada3e1768.json",
+					"name" : "scp_write",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "scp_write_nonblock::@70983d692f648185febe",
+					"jsonFile" : "target-scp_write_nonblock-Debug-7902c198c3ae6d6befbd.json",
+					"name" : "scp_write_nonblock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sftp::@70983d692f648185febe",
+					"jsonFile" : "target-sftp-Debug-9421cde6c3a44f7e4722.json",
+					"name" : "sftp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sftp_RW_nonblock::@70983d692f648185febe",
+					"jsonFile" : "target-sftp_RW_nonblock-Debug-0c193d2a5f4c271728d7.json",
+					"name" : "sftp_RW_nonblock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sftp_append::@70983d692f648185febe",
+					"jsonFile" : "target-sftp_append-Debug-bebdb023aa4a24333861.json",
+					"name" : "sftp_append",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sftp_mkdir::@70983d692f648185febe",
+					"jsonFile" : "target-sftp_mkdir-Debug-4920171745c3da6f806b.json",
+					"name" : "sftp_mkdir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sftp_mkdir_nonblock::@70983d692f648185febe",
+					"jsonFile" : "target-sftp_mkdir_nonblock-Debug-b9d4009698ab9e59df83.json",
+					"name" : "sftp_mkdir_nonblock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sftp_nonblock::@70983d692f648185febe",
+					"jsonFile" : "target-sftp_nonblock-Debug-108bda847a1762350ca8.json",
+					"name" : "sftp_nonblock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sftp_write::@70983d692f648185febe",
+					"jsonFile" : "target-sftp_write-Debug-d0b28d859d2fa19329f9.json",
+					"name" : "sftp_write",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sftp_write_nonblock::@70983d692f648185febe",
+					"jsonFile" : "target-sftp_write_nonblock-Debug-2c9c765f55f0fc86bf63.json",
+					"name" : "sftp_write_nonblock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sftp_write_sliding::@70983d692f648185febe",
+					"jsonFile" : "target-sftp_write_sliding-Debug-f90e5f8a962587cca545.json",
+					"name" : "sftp_write_sliding",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sftpdir::@70983d692f648185febe",
+					"jsonFile" : "target-sftpdir-Debug-9977ccc3f065c9e86d61.json",
+					"name" : "sftpdir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "sftpdir_nonblock::@70983d692f648185febe",
+					"jsonFile" : "target-sftpdir_nonblock-Debug-3ec24e0f9e6877e7b6a1.json",
+					"name" : "sftpdir_nonblock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ssh2::@70983d692f648185febe",
+					"jsonFile" : "target-ssh2-Debug-1e1562125a0562ac4fe3.json",
+					"name" : "ssh2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ssh2_agent::@70983d692f648185febe",
+					"jsonFile" : "target-ssh2_agent-Debug-08a9c20052f6c8660eac.json",
+					"name" : "ssh2_agent",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ssh2_agent_forwarding::@70983d692f648185febe",
+					"jsonFile" : "target-ssh2_agent_forwarding-Debug-31611bc8a65fe44178b3.json",
+					"name" : "ssh2_agent_forwarding",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ssh2_echo::@70983d692f648185febe",
+					"jsonFile" : "target-ssh2_echo-Debug-db32b01dbd5180b3ead2.json",
+					"name" : "ssh2_echo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ssh2_exec::@70983d692f648185febe",
+					"jsonFile" : "target-ssh2_exec-Debug-4c1a39e42b5c0b0e2bc2.json",
+					"name" : "ssh2_exec",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "subsystem_netconf::@70983d692f648185febe",
+					"jsonFile" : "target-subsystem_netconf-Debug-938b45388e345f19eecb.json",
+					"name" : "subsystem_netconf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "tcpip-forward::@70983d692f648185febe",
+					"jsonFile" : "target-tcpip-forward-Debug-468a311d06a76f8a8242.json",
+					"name" : "tcpip-forward",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_aa_warmup::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_aa_warmup-Debug-e2a992448b9410037118.json",
+					"name" : "test_aa_warmup",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_agent_forward_ok::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_agent_forward_ok-Debug-917ccf94b0d611e4b393.json",
+					"name" : "test_agent_forward_ok",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_keyboard_fail::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_keyboard_fail-Debug-3f8e68f6b3efbd8d3d39.json",
+					"name" : "test_auth_keyboard_fail",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_keyboard_info_request::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_keyboard_info_request-Debug-d22d6e4e4a74359bc98b.json",
+					"name" : "test_auth_keyboard_info_request",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_keyboard_ok::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_keyboard_ok-Debug-367e72a8e0499dbb7d3c.json",
+					"name" : "test_auth_keyboard_ok",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_password_fail_password::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_password_fail_password-Debug-1f4f3fbab75af2717049.json",
+					"name" : "test_auth_password_fail_password",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_password_fail_username::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_password_fail_username-Debug-8572155efd1d2e0bde03.json",
+					"name" : "test_auth_password_fail_username",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_password_ok::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_password_ok-Debug-6d8691fcd11db940629b.json",
+					"name" : "test_auth_password_ok",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_pubkey_fail::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_pubkey_fail-Debug-e1bda31ad597daa590f5.json",
+					"name" : "test_auth_pubkey_fail",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_pubkey_ok_dsa::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_pubkey_ok_dsa-Debug-0beca75b2db9b952533c.json",
+					"name" : "test_auth_pubkey_ok_dsa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_pubkey_ok_ecdsa::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_pubkey_ok_ecdsa-Debug-f8d61370ef71a8646bc6.json",
+					"name" : "test_auth_pubkey_ok_ecdsa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_pubkey_ok_ecdsa_signed::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_pubkey_ok_ecdsa_signed-Debug-69b49e7be12d820e6c0a.json",
+					"name" : "test_auth_pubkey_ok_ecdsa_signed",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_pubkey_ok_ed25519::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_pubkey_ok_ed25519-Debug-d653d49d216a0506601b.json",
+					"name" : "test_auth_pubkey_ok_ed25519",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_pubkey_ok_ed25519_encrypted::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_pubkey_ok_ed25519_encrypted-Debug-62d8ecde02a3e2d34a16.json",
+					"name" : "test_auth_pubkey_ok_ed25519_encrypted",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_pubkey_ok_ed25519_mem::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_pubkey_ok_ed25519_mem-Debug-c7540c286dd9f6543714.json",
+					"name" : "test_auth_pubkey_ok_ed25519_mem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_pubkey_ok_rsa::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_pubkey_ok_rsa-Debug-fe23088910fe28be8b8e.json",
+					"name" : "test_auth_pubkey_ok_rsa",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_pubkey_ok_rsa_encrypted::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_pubkey_ok_rsa_encrypted-Debug-39dabdbcb9ae64247e32.json",
+					"name" : "test_auth_pubkey_ok_rsa_encrypted",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_pubkey_ok_rsa_openssh::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_pubkey_ok_rsa_openssh-Debug-4d5f8b443202a5d8c018.json",
+					"name" : "test_auth_pubkey_ok_rsa_openssh",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_auth_pubkey_ok_rsa_signed::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_auth_pubkey_ok_rsa_signed-Debug-65e0620d814460819622.json",
+					"name" : "test_auth_pubkey_ok_rsa_signed",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_hostkey::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_hostkey-Debug-139094188924202bb149.json",
+					"name" : "test_hostkey",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_hostkey_hash::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_hostkey_hash-Debug-109fc0398479b32b5b63.json",
+					"name" : "test_hostkey_hash",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_read::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_read-Debug-0f6cf33537bf5c3752e4.json",
+					"name" : "test_read",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_simple::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_simple-Debug-f8fd87a8554a3f71a808.json",
+					"name" : "test_simple",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "test_ssh2::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-test_ssh2-Debug-0012f18d2c65f88eb0ac.json",
+					"name" : "test_ssh2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "x11::@70983d692f648185febe",
+					"jsonFile" : "target-x11-Debug-69accd60fc8849daae34.json",
+					"name" : "x11",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rassulzhan/projects/libssh2-1.11.0/build",
+		"source" : "C:/Users/rassulzhan/projects/libssh2-1.11.0"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,154 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 136,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 143,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 150,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 165,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 189,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 213,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"include/libssh2.h",
+				"include/libssh2_publickey.h",
+				"include/libssh2_sftp.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"src/libssh2.a"
+			],
+			"targetId" : "libssh2_static::@145eef247bfb46b6828c",
+			"targetIndex" : 6,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"src/libssh2.dll.a"
+			],
+			"targetId" : "libssh2_shared::@145eef247bfb46b6828c",
+			"targetIndex" : 5,
+			"targetIsImportLibrary" : true,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "bin",
+			"paths" : 
+			[
+				"src/libssh2.dll"
+			],
+			"targetId" : "libssh2_shared::@145eef247bfb46b6828c",
+			"targetIndex" : 5,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/libssh2",
+			"exportName" : "Libssh2Config",
+			"exportTargets" : 
+			[
+				{
+					"id" : "libssh2_static::@145eef247bfb46b6828c",
+					"index" : 6
+				},
+				{
+					"id" : "libssh2_shared::@145eef247bfb46b6828c",
+					"index" : 5
+				}
+			],
+			"paths" : 
+			[
+				"src/CMakeFiles/Export/42214405a3257a3f963467afd5bfd32f/Libssh2Config.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 5,
+			"component" : "Unspecified",
+			"destination" : "lib/pkgconfig",
+			"paths" : 
+			[
+				"build/src/libssh2.pc"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 6,
+			"component" : "Unspecified",
+			"destination" : "lib/cmake/libssh2",
+			"paths" : 
+			[
+				"build/src/Libssh2ConfigVersion.cmake"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src",
+		"source" : "src"
+	}
+}

@@ -1,0 +1,698 @@
+[
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_callbacks.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_callbacks.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_callbacks.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_callbacks.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_cursor.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_cursor.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_cursor.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_cursor.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_display.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_display.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_display.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_display.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_ext.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_ext.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_ext.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_ext.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_font_data.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_font_data.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_font_data.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_font_data.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_gamemode.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_gamemode.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_gamemode.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_gamemode.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_geometry.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_geometry.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_geometry.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_geometry.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_gl2.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_gl2.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_gl2.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_gl2.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_init.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_init.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_init.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_init.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_input_devices.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_input_devices.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_input_devices.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_input_devices.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_joystick.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_joystick.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_joystick.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_main.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_main.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_main.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_main.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_misc.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_misc.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_misc.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_misc.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_overlay.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_overlay.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_overlay.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_overlay.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_spaceball.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_spaceball.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_spaceball.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_spaceball.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_state.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_state.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_state.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_state.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_stroke_mono_roman.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_stroke_mono_roman.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_stroke_mono_roman.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_stroke_mono_roman.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_stroke_roman.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_stroke_roman.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_stroke_roman.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_stroke_roman.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_structure.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_structure.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_structure.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_structure.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_teapot.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_teapot.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_teapot.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_teapot.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_videoresize.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_videoresize.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_videoresize.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_videoresize.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_window.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_window.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_window.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_window.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_font.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_font.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_font.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_font.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\fg_menu.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_menu.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_menu.c",
+  "output": "CMakeFiles/freeglut.dir/src/fg_menu.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_cursor_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_cursor_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_cursor_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_cursor_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_display_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_display_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_display_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_display_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_ext_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_ext_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_ext_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_ext_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_gamemode_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_gamemode_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_gamemode_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_gamemode_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_init_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_init_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_init_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_init_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_input_devices_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_input_devices_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_input_devices_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_input_devices_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_joystick_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_joystick_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_joystick_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_joystick_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_main_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_main_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_main_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_main_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_menu_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_menu_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_menu_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_menu_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_spaceball_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_spaceball_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_spaceball_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_spaceball_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_state_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_state_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_state_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_state_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_structure_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_structure_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_structure_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_structure_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_window_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_window_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_window_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_window_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\mswin\\fg_cmap_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_cmap_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_cmap_mswin.c",
+  "output": "CMakeFiles/freeglut.dir/src/mswin/fg_cmap_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_EXPORTS -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 -Dfreeglut_EXPORTS @CMakeFiles/freeglut.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut.dir\\src\\util\\xparsegeometry_repl.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\util\\xparsegeometry_repl.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/util/xparsegeometry_repl.c",
+  "output": "CMakeFiles/freeglut.dir/src/util/xparsegeometry_repl.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_callbacks.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_callbacks.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_callbacks.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_callbacks.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_cursor.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_cursor.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_cursor.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_cursor.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_display.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_display.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_display.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_display.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_ext.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_ext.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_ext.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_ext.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_font_data.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_font_data.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_font_data.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_font_data.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_gamemode.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_gamemode.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_gamemode.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_gamemode.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_geometry.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_geometry.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_geometry.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_geometry.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_gl2.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_gl2.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_gl2.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_gl2.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_init.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_init.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_init.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_init.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_input_devices.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_input_devices.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_input_devices.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_input_devices.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_joystick.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_joystick.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_joystick.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_joystick.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_main.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_main.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_main.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_main.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_misc.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_misc.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_misc.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_misc.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_overlay.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_overlay.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_overlay.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_overlay.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_spaceball.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_spaceball.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_spaceball.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_spaceball.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_state.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_state.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_state.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_state.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_stroke_mono_roman.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_stroke_mono_roman.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_stroke_mono_roman.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_stroke_mono_roman.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_stroke_roman.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_stroke_roman.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_stroke_roman.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_stroke_roman.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_structure.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_structure.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_structure.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_structure.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_teapot.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_teapot.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_teapot.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_teapot.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_videoresize.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_videoresize.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_videoresize.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_videoresize.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_window.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_window.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_window.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_window.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_font.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_font.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_font.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_font.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\fg_menu.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\fg_menu.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/fg_menu.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/fg_menu.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_cursor_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_cursor_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_cursor_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_cursor_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_display_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_display_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_display_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_display_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_ext_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_ext_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_ext_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_ext_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_gamemode_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_gamemode_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_gamemode_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_gamemode_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_init_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_init_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_init_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_init_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_input_devices_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_input_devices_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_input_devices_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_input_devices_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_joystick_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_joystick_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_joystick_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_joystick_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_main_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_main_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_main_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_main_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_menu_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_menu_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_menu_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_menu_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_spaceball_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_spaceball_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_spaceball_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_spaceball_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_state_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_state_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_state_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_state_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_structure_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_structure_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_structure_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_structure_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_window_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_window_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_window_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_window_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\mswin\\fg_cmap_mswin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\mswin\\fg_cmap_mswin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/mswin/fg_cmap_mswin.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/mswin/fg_cmap_mswin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/freeglut_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\freeglut_static.dir\\src\\util\\xparsegeometry_repl.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\src\\util\\xparsegeometry_repl.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/src/util/xparsegeometry_repl.c",
+  "output": "CMakeFiles/freeglut_static.dir/src/util/xparsegeometry_repl.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/CallbackMaker.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\CallbackMaker.dir\\progs\\demos\\CallbackMaker\\CallbackMaker.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\CallbackMaker\\CallbackMaker.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/CallbackMaker/CallbackMaker.c",
+  "output": "CMakeFiles/CallbackMaker.dir/progs/demos/CallbackMaker/CallbackMaker.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/CallbackMaker_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\CallbackMaker_static.dir\\progs\\demos\\CallbackMaker\\CallbackMaker.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\CallbackMaker\\CallbackMaker.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/CallbackMaker/CallbackMaker.c",
+  "output": "CMakeFiles/CallbackMaker_static.dir/progs/demos/CallbackMaker/CallbackMaker.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/Fractals.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\Fractals.dir\\progs\\demos\\Fractals\\fractals.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\Fractals\\fractals.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/Fractals/fractals.c",
+  "output": "CMakeFiles/Fractals.dir/progs/demos/Fractals/fractals.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/Fractals_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\Fractals_static.dir\\progs\\demos\\Fractals\\fractals.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\Fractals\\fractals.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/Fractals/fractals.c",
+  "output": "CMakeFiles/Fractals_static.dir/progs/demos/Fractals/fractals.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/Fractals_random.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\Fractals_random.dir\\progs\\demos\\Fractals_random\\fractals_random.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\Fractals_random\\fractals_random.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/Fractals_random/fractals_random.c",
+  "output": "CMakeFiles/Fractals_random.dir/progs/demos/Fractals_random/fractals_random.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/Fractals_random_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\Fractals_random_static.dir\\progs\\demos\\Fractals_random\\fractals_random.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\Fractals_random\\fractals_random.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/Fractals_random/fractals_random.c",
+  "output": "CMakeFiles/Fractals_random_static.dir/progs/demos/Fractals_random/fractals_random.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/Lorenz.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\Lorenz.dir\\progs\\demos\\Lorenz\\lorenz.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\Lorenz\\lorenz.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/Lorenz/lorenz.c",
+  "output": "CMakeFiles/Lorenz.dir/progs/demos/Lorenz/lorenz.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/Lorenz_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\Lorenz_static.dir\\progs\\demos\\Lorenz\\lorenz.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\Lorenz\\lorenz.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/Lorenz/lorenz.c",
+  "output": "CMakeFiles/Lorenz_static.dir/progs/demos/Lorenz/lorenz.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/One.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\One.dir\\progs\\demos\\One\\one.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\One\\one.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/One/one.c",
+  "output": "CMakeFiles/One.dir/progs/demos/One/one.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/One_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\One_static.dir\\progs\\demos\\One\\one.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\One\\one.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/One/one.c",
+  "output": "CMakeFiles/One_static.dir/progs/demos/One/one.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/resizer.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\resizer.dir\\progs\\demos\\resizer\\resizer.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\resizer\\resizer.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/resizer/resizer.c",
+  "output": "CMakeFiles/resizer.dir/progs/demos/resizer/resizer.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/resizer_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\resizer_static.dir\\progs\\demos\\resizer\\resizer.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\resizer\\resizer.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/resizer/resizer.c",
+  "output": "CMakeFiles/resizer_static.dir/progs/demos/resizer/resizer.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/multi-touch.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\multi-touch.dir\\progs\\demos\\multi-touch\\multi-touch.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\multi-touch\\multi-touch.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/multi-touch/multi-touch.c",
+  "output": "CMakeFiles/multi-touch.dir/progs/demos/multi-touch/multi-touch.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/multi-touch_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\multi-touch_static.dir\\progs\\demos\\multi-touch\\multi-touch.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\multi-touch\\multi-touch.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/multi-touch/multi-touch.c",
+  "output": "CMakeFiles/multi-touch_static.dir/progs/demos/multi-touch/multi-touch.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/shapes.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\shapes.dir\\progs\\demos\\shapes\\shapes.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\shapes\\shapes.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/shapes/shapes.c",
+  "output": "CMakeFiles/shapes.dir/progs/demos/shapes/shapes.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/shapes.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\shapes.dir\\progs\\demos\\shapes\\glmatrix.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\shapes\\glmatrix.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/shapes/glmatrix.c",
+  "output": "CMakeFiles/shapes.dir/progs/demos/shapes/glmatrix.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/shapes_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\shapes_static.dir\\progs\\demos\\shapes\\shapes.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\shapes\\shapes.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/shapes/shapes.c",
+  "output": "CMakeFiles/shapes_static.dir/progs/demos/shapes/shapes.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/shapes_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\shapes_static.dir\\progs\\demos\\shapes\\glmatrix.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\shapes\\glmatrix.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/shapes/glmatrix.c",
+  "output": "CMakeFiles/shapes_static.dir/progs/demos/shapes/glmatrix.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/smooth_opengl3.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\smooth_opengl3.dir\\progs\\demos\\smooth_opengl3\\smooth_opengl3.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\smooth_opengl3\\smooth_opengl3.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/smooth_opengl3/smooth_opengl3.c",
+  "output": "CMakeFiles/smooth_opengl3.dir/progs/demos/smooth_opengl3/smooth_opengl3.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/smooth_opengl3_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\smooth_opengl3_static.dir\\progs\\demos\\smooth_opengl3\\smooth_opengl3.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\smooth_opengl3\\smooth_opengl3.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/smooth_opengl3/smooth_opengl3.c",
+  "output": "CMakeFiles/smooth_opengl3_static.dir/progs/demos/smooth_opengl3/smooth_opengl3.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/spaceball.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\spaceball.dir\\progs\\demos\\spaceball\\spaceball.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\spaceball\\spaceball.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/spaceball/spaceball.c",
+  "output": "CMakeFiles/spaceball.dir/progs/demos/spaceball/spaceball.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/spaceball.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\spaceball.dir\\progs\\demos\\spaceball\\vmath.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\spaceball\\vmath.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/spaceball/vmath.c",
+  "output": "CMakeFiles/spaceball.dir/progs/demos/spaceball/vmath.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/spaceball_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\spaceball_static.dir\\progs\\demos\\spaceball\\spaceball.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\spaceball\\spaceball.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/spaceball/spaceball.c",
+  "output": "CMakeFiles/spaceball_static.dir/progs/demos/spaceball/spaceball.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/spaceball_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\spaceball_static.dir\\progs\\demos\\spaceball\\vmath.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\spaceball\\vmath.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/spaceball/vmath.c",
+  "output": "CMakeFiles/spaceball_static.dir/progs/demos/spaceball/vmath.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/joystick.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\joystick.dir\\progs\\demos\\joystick\\joystick.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\joystick\\joystick.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/joystick/joystick.c",
+  "output": "CMakeFiles/joystick.dir/progs/demos/joystick/joystick.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/joystick_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\joystick_static.dir\\progs\\demos\\joystick\\joystick.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\joystick\\joystick.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/joystick/joystick.c",
+  "output": "CMakeFiles/joystick_static.dir/progs/demos/joystick/joystick.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/subwin.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\subwin.dir\\progs\\demos\\subwin\\subwin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\subwin\\subwin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/subwin/subwin.c",
+  "output": "CMakeFiles/subwin.dir/progs/demos/subwin/subwin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/subwin_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\subwin_static.dir\\progs\\demos\\subwin\\subwin.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\subwin\\subwin.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/subwin/subwin.c",
+  "output": "CMakeFiles/subwin_static.dir/progs/demos/subwin/subwin.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/timer.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\timer.dir\\progs\\demos\\timer\\timer.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\timer\\timer.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/timer/timer.c",
+  "output": "CMakeFiles/timer.dir/progs/demos/timer/timer.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/timer_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\timer_static.dir\\progs\\demos\\timer\\timer.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\timer\\timer.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/timer/timer.c",
+  "output": "CMakeFiles/timer_static.dir/progs/demos/timer/timer.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/timer_callback.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\timer_callback.dir\\progs\\demos\\timer_callback\\timer.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\timer_callback\\timer.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/timer_callback/timer.c",
+  "output": "CMakeFiles/timer_callback.dir/progs/demos/timer_callback/timer.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/timer_callback_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\timer_callback_static.dir\\progs\\demos\\timer_callback\\timer.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\timer_callback\\timer.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/timer_callback/timer.c",
+  "output": "CMakeFiles/timer_callback_static.dir/progs/demos/timer_callback/timer.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/keyboard.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\keyboard.dir\\progs\\demos\\keyboard\\keyboard.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\keyboard\\keyboard.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/keyboard/keyboard.c",
+  "output": "CMakeFiles/keyboard.dir/progs/demos/keyboard/keyboard.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/keyboard_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\keyboard_static.dir\\progs\\demos\\keyboard\\keyboard.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\keyboard\\keyboard.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/keyboard/keyboard.c",
+  "output": "CMakeFiles/keyboard_static.dir/progs/demos/keyboard/keyboard.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/indexed_color.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\indexed_color.dir\\progs\\demos\\indexed_color\\idxcol.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\indexed_color\\idxcol.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/indexed_color/idxcol.c",
+  "output": "CMakeFiles/indexed_color.dir/progs/demos/indexed_color/idxcol.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/indexed_color_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\indexed_color_static.dir\\progs\\demos\\indexed_color\\idxcol.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\indexed_color\\idxcol.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/indexed_color/idxcol.c",
+  "output": "CMakeFiles/indexed_color_static.dir/progs/demos/indexed_color/idxcol.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/3dview.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\3dview.dir\\progs\\demos\\3dview\\3dview.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\3dview\\3dview.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/3dview/3dview.c",
+  "output": "CMakeFiles/3dview.dir/progs/demos/3dview/3dview.c.obj"
+},
+{
+  "directory": "C:/Users/rassulzhan/projects/freeglut-3.4.0/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DFREEGLUT_STATIC -DHAVE_CONFIG_H -DWINVER=0x0601 -D_CRT_SECURE_NO_WARNINGS -D_WIN32_WINNT=0x0601 @CMakeFiles/3dview_static.dir/includes_C.rsp  -Wall -pedantic -g -o CMakeFiles\\3dview_static.dir\\progs\\demos\\3dview\\3dview.c.obj -c C:\\Users\\rassulzhan\\projects\\freeglut-3.4.0\\progs\\demos\\3dview\\3dview.c",
+  "file": "C:/Users/rassulzhan/projects/freeglut-3.4.0/progs/demos/3dview/3dview.c",
+  "output": "CMakeFiles/3dview_static.dir/progs/demos/3dview/3dview.c.obj"
+}
+]

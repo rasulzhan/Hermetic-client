@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc librunner.a CMakeFiles/runner.dir/runner.c.obj CMakeFiles/runner.dir/session_fixture.c.obj CMakeFiles/runner.dir/openssh_fixture.c.obj
+C:\msys64\ucrt64\bin\ranlib.exe librunner.a

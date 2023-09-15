@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+10612dcc8572d02fb6b8db4cef3a4508 tests/CMakeFiles/clean-coverage
+7a7f1f0805675af7cf77c547ba9314d0 tests/CMakeFiles/coverage
